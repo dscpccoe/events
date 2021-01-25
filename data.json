@@ -20,5 +20,60 @@
 		"speakers": ["Antariksh Pratham"],
 		"startTime": "1601200800",
 		"endTime": "1601206200"
+	},
+	"000003": {
+		"name": "Frontend Thursdays | Session #1",
+		"url": "https://dsc.community.dev/e/m2c3tf/",
+		"poster": "https://youtu.be/fpyaPmPRhk4",
+		"youtube": true,
+		"description": "Web Development is one of the top demanding skills in IT Industries. As students from the Engineering domain, having a demanding skill in hand can help during placements and recruitment. Join us for Frontend Thursdays Session #1 in which we help you headstart your web development journey. So be ready with your laptops and PCs to jump right into it along with us!",
+		"topicsCovered": ["Web"],
+		"speakers": ["Harish Dalal", "Suyash Sonawane"],
+		"startTime": "1601200800",
+		"endTime": "1601206200"
+	},
+	"000004": {
+		"name": "Competitive Fridays | Session #1",
+		"url": "https://dsc.community.dev/e/mz37sg/",
+		"poster": "https://youtu.be/a2dhAwwCN4E",
+		"youtube": true,
+		"description": "In this lockdown period, many of you might have heard of Competitive programming but still, some might not have heard of it or still wondering what it is and what’s its use. Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. Join us for the Competitive Fridays to dive into it!",
+		"topicsCovered": ["Competetive Programming"],
+		"speakers": ["Harish Dalal", "Abhishek Ove"],
+		"startTime": "1601200800",
+		"endTime": "1601206200"
+	},
+	"000005": {
+		"name": "AI ML Saturdays Session #1",
+		"url": "https://dsc.community.dev/e/mmjgzr/",
+		"poster": "https://youtu.be/wtg7VZ7yqts",
+		"youtube": true,
+		"description": "Artificial intelligence (AI) is a wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. AI is an interdisciplinary science with multiple approaches, but advancements in machine learning and deep learning are creating a paradigm shift in virtually every sector of the tech industry.",
+		"topicsCovered": ["AI/ ML"],
+		"speakers": ["Jayesh Shelar", "Siddhant Jain"],
+		"startTime": "1601200800",
+		"endTime": "1601206200"
+	},
+	"000006": {
+		"name": "Backend Sundays Session #1",
+		"url": "https://dsc.community.dev/e/m84m79/",
+		"poster": "https://youtu.be/5ooEcOPf__E",
+		"youtube": true,
+		"description": "What is Node.js? Node.js is a backend language. It is fast and easily scalable network application. For now it is in demand for many companies. Node.js uses event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive realtime application that run across distributed devices.",
+		"topicsCovered": ["Backend", "NodeJs"],
+		"speakers": ["Bhavansh Gupta"],
+		"startTime": "1601200800",
+		"endTime": "1601206200"
+	},
+	"000007": {
+		"name": "Android Mondays Session #1",
+		"url": "https://dsc.community.dev/e/m2sr6p/",
+		"poster": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/event_banners/Group%252034.png",
+		"youtube": false,
+		"description": "The android application market is growing at a fast pace and hence, there are all underlying reasons why every business must choose Android as their business application. Currently, the Android platform serves 3,5 billion users, (in 2020) which is more than any other mobile operating system. Register to start your journey as an Android Developer",
+		"topicsCovered": ["Android"],
+		"speakers": ["Shreya Pillai", "Ganesh Shinde"],
+		"startTime": "1601200800",
+		"endTime": "1601206200"
 	}
 }
