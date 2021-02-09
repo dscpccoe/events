@@ -75,5 +75,16 @@
 		"speakers": ["Shreya Pillai", "Ganesh Shinde"],
 		"startTime": "1601200800",
 		"endTime": "1601206200"
+	},
+	"000008": {
+		"name": "Getting started with IOT and Robotics",
+		"url": "https://dsc.community.dev/events/details/developer-student-clubs-pimpri-chinchwad-college-of-engineering-presents-getting-started-with-iot-and-robotics/#/",
+		"poster": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/event_banners/Group%252034.png",
+		"youtube": false,
+		"description": "Robotic automation is transforming businesses, industries, and manufacturing and reshaping the workplace globally. As the market leans towards automating more and more aspects of our life, robotics is a crucial skill to possess. 🛠️ Robotics and IoT Workshop 🛠️ is a 2-day workshop, for beginners who want to step into the fascinating world of Robotics and IoT. You will learn how microcontrollers are used in robots, how an Arduino UNO board works, programming your own robots. You will also learn how to connect your robot to the Cloud for IoT, make home automation devices like Smart Bulb, etc., and make an IoT-controlled vehicle. Note: No equipment needed. Attendees can practice using an easy online simulator",
+		"topicsCovered": ["IoT","Firebase"],
+		"speakers": ["Aditya Mahajan"],
+		"startTime": "1613088000",
+		"endTime": "1613260799"
 	}
 }
