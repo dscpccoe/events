@@ -84,7 +84,7 @@
 		"description": "Robotic automation is transforming businesses, industries, and manufacturing and reshaping the workplace globally. As the market leans towards automating more and more aspects of our life, robotics is a crucial skill to possess. 🛠️ Robotics and IoT Workshop 🛠️ is a 2-day workshop, for beginners who want to step into the fascinating world of Robotics and IoT. You will learn how microcontrollers are used in robots, how an Arduino UNO board works, programming your own robots. You will also learn how to connect your robot to the Cloud for IoT, make home automation devices like Smart Bulb, etc., and make an IoT-controlled vehicle. Note: No equipment needed. Attendees can practice using an easy online simulator",
 		"topicsCovered": ["IoT","Firebase"],
 		"speakers": ["Aditya Mahajan"],
-		"startTime": "1613088000",
-		"endTime": "1613260799"
+		"startTime": "1613149220",
+		"endTime": "1613221220"
 	}
 }
